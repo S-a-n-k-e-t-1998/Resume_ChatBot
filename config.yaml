@@ -1,0 +1,17 @@
+api_key : "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"
+
+model_config : 
+      # model name
+      model_name : "gpt-3.5-turbo"
+      # set maximum input size
+      max_input_size : 4096
+      # set number of output tokens
+      num_output : 256
+      # set maximum chunk overlap
+      max_chunk_overlap : 20
+      # temperature
+      temperature : 0
+
+
+
+
